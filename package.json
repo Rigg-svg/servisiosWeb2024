@@ -1,0 +1,16 @@
+{
+  "name": "ropitorio",
+  "version": "1.0.0",
+  "description": "First testing of Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "Operators:run": "node Operators.js",
+    "StringMethods": "node StringMethods.js"
+  },
+  "keywords": [],
+  "author": "Pancho Pistolas",
+  "license": "ISC"
+}
+
