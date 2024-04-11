@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "Operators:run": "node Operators.js",
-    "StringMethods": "node StringMethods.js"
+    "StringMethods": "node StringMethods.js",
+    "array": "node Estructuras_Datos.js",
+    "ob": "node objectos.js ",
+    "ciclos": "node ciclos.js"
   },
   "keywords": [],
   "author": "Pancho Pistolas",
