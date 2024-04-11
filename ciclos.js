@@ -16,7 +16,11 @@ function tabla(){
     let i = 1
 
     while(i < 11){
-        tabla_mul[i] = value * i
+        tabla_mul.push({
+            "multiplicando": value,
+            "multiplicado": i,
+            "producto":value * i 
+        })
         i++;
     }
 
